@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<link rel="icon" type="image/svg+xml" href="https://WilsonBM11.github.io/chatbot/vite.svg" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<link
+			rel="stylesheet"
+			href="https://www.gstatic.com/dialogflow-console/fast/df-messenger/prod/v1/themes/df-messenger-default.css"
+		/>
+		<script src="https://www.gstatic.com/dialogflow-console/fast/df-messenger/prod/v1/df-messenger.js"></script>
+		<df-messenger
+			location="us-central1"
+			project-id="proyecto-chatbot-426722"
+			agent-id="301126ec-76f6-446c-b89f-081c7c5fbd2a"
+			language-code="es"
+			max-query-length="-1"
+			allow-feedback="all"
+		>
+			<df-messenger-chat-bubble chat-title="Asistente Virtual"> </df-messenger-chat-bubble>
+		</df-messenger>
+		<style>
+			df-messenger {
+				z-index: 999;
+				position: fixed;
+				--df-messenger-font-family: "Google Sans";
+				--df-messenger-chat-window-height: 450px;
+				--df-messenger-titlebar-background: #003087;
+				--df-messenger-titlebar-font-color: #ffffff;
+				--df-messenger-chat-bubble-background: #003087;
+				--df-messenger-chat-bubble-icon-color: #ffffff;
+				--df-messenger-message-bot-background: #003087;
+				--df-messenger-message-bot-font-color: #ffffff;
+				--df-messenger-message-user-background: #107C10;
+				--df-messenger-message-user-font-color: #ffffff;
+				--df-messenger-send-icon-color: #107C10;
+				--df-messenger-message-feedback-icon-background-hover: #003087;
+				--df-messenger-message-feedback-icon-font-color-active: #ffffff;
+				--df-messenger-message-feedback-icon-font-color: #ffffff;
+				--df-messenger-message-feedback-icon-background: #107C10;
+				--df-messenger-titlebar-icon-font-color: #ffff;
+				bottom: 16px;
+				right: 16px;
+			}
+			
+		</style>
+		<title>VideoGames</title>
+		<script type="module" crossorigin src="https://WilsonBM11.github.io/chatbot/assets/index-CZDfQeb8.js"></script>
+	</head>
+	<body>
+		<div id="root"></div>
+	</body>
+</html>
