@@ -1,25 +1,66 @@
 .navbar {
     background: #003087;
-
-    line-height: '64px';
-    border-bottom: 'none'
+    padding: 10px 20px;
 }
 
-
+.navbar-item {
+    color: #ffffff !important;
+    font-size: 1.3em;
+    padding: 0 10px;
+}
 .ant-menu-horizontal {
     border-bottom: none;
+    flex-grow: 1;
+    display: flex;
+    justify-content: flex-end;
 }
 
-.ant-menu-horizontal>.ant-menu-item {
+.ant-menu-horizontal > .ant-menu-item {
     color: #ffffff !important;
     transition: background-color 0.3s, color 0.3s;
 }
 
-.ant-menu-horizontal>.ant-menu-item:hover {
+.ant-menu-horizontal > .ant-menu-item:hover {
     background-color: #0044cc !important;
 }
 
-.ant-menu-horizontal>.ant-menu-item-selected {
+.ant-menu-horizontal > .ant-menu-item-selected {
     color: #cccccc !important;
     background-color: #002266 !important;
+}
+
+.navbar-search {
+    display: flex;
+    align-items: center;
+}
+
+.ant-input-affix-wrapper {
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+.ant-input-search-button {
+    background-color: #0044cc !important;
+    border: none !important;
+    border-radius: 0 20px 20px 0 !important;
+    color: #ffffff !important;
+}
+
+.ant-input-search-button:hover {
+    background-color: #003087 !important;
+}
+
+@media (max-width: 768px) {
+    .navbar {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .ant-menu-horizontal {
+        justify-content: flex-start;
+    }
+
+    .navbar-logo {
+        margin-bottom: 10px;
+    }
 }

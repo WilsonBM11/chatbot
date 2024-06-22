@@ -1,5 +1,41 @@
-.footer{
-    background-color: '#003087';
-    color: '#ffffff';
-    text-align: 'center' 
+.footer {
+    color: #002f87;
+    padding: 5px 0;
+    text-align: center;
 }
+
+.footer-content {
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    text-align: left;
+    background-color: #002f87;
+    color: #ffffff;
+   
+}
+
+.footer-content div {
+    max-width: 200px;
+}
+
+.footer h2 {
+    font-size: 1.5em;
+    margin-bottom: 20px;
+    
+}
+
+.footer p {
+    margin: 10px 0;
+    font-size: 1em;
+}
+
+.footer p .fa-icon {
+    margin-right: 8px;
+}
+
+.footer p:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+

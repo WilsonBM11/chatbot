@@ -21,14 +21,14 @@ const GameCarousel: React.FC = () => {
   return (
     <div className="carousel-container">
       <div className="carousel-text">
-        <h2>Nuestros juegos más vendidos</h2>
+        <h2 className='title-new'>LO MÁS NUEVO</h2>
       </div>
       <Card>
       <Slider {...settings} className="carousel">
         {data.dataJuegos.map((juego, index) => (
           <div key={index} className="carousel-slide">
             <img src={juego.image} alt={juego.titulo} className="carousel-image" />
-            <h3>{juego.titulo}</h3>
+            
           </div>
         ))}
       </Slider>

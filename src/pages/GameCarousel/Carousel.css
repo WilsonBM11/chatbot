@@ -5,3 +5,8 @@
   align-items: center;
   justify-content: space-between;
 }
+
+.title-new{
+  font-size: 1.4rem;
+  color: #555555;
+}
