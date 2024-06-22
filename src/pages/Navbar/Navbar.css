@@ -1,0 +1,25 @@
+.navbar {
+    background: #003087;
+
+    line-height: '64px';
+    border-bottom: 'none'
+}
+
+
+.ant-menu-horizontal {
+    border-bottom: none;
+}
+
+.ant-menu-horizontal>.ant-menu-item {
+    color: #ffffff !important;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.ant-menu-horizontal>.ant-menu-item:hover {
+    background-color: #0044cc !important;
+}
+
+.ant-menu-horizontal>.ant-menu-item-selected {
+    color: #cccccc !important;
+    background-color: #002266 !important;
+}

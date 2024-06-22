@@ -1,0 +1,630 @@
+{
+"dataJuegos": [
+  {
+    "titulo": "The Legend of Zelda: Breath of the Wild",
+    "año": 2017,
+    "genero": [
+      "Accion",
+      "Aventura",
+      "Mundo Abierto"
+    ],
+    "puntuacion": 9.5,
+    "precio": 59.99,
+    "plataforma": [
+      "Nintendo Switch",
+      "Wii U"
+    ],
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3p2d.webp"
+  },
+  {
+    "titulo": "The Witcher 3: Wild Hunt",
+    "año": 2015,
+    "genero": [
+      "Accion",
+      "RPG",
+      "Mundo Abierto"
+    ],
+    "puntuacion": 9.8,
+    "precio": 39.99,
+    "plataforma": [
+      "PC",
+      "PlayStation 4",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1wyy.webp"
+  },
+  {
+    "titulo": "Red Dead Redemption 2",
+    "año": 2018,
+    "genero": [
+      "Accion",
+      "Aventura",
+      "Mundo Abierto"
+    ],
+    "puntuacion": 9.7,
+    "precio": 59.99,
+    "plataforma": [
+      "PC",
+      "PlayStation 4",
+      "Xbox One"
+    ],
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1q1f.webp"
+  },
+  {
+    "titulo": "God of War",
+    "año": 2018,
+    "genero": [
+      "Accion",
+      "Aventura"
+    ],
+    "puntuacion": 9.6,
+    "precio": 49.99,
+    "plataforma": [
+      "PlayStation 4"
+    ],
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1tmu.webp"
+  },
+  {
+    "titulo": "Cyberpunk 2077",
+    "año": 2020,
+    "genero": [
+      "Accion",
+      "RPG",
+      "Mundo Abierto"
+    ],
+    "puntuacion": 7.5,
+    "precio": 59.99,
+    "plataforma": [
+      "PC",
+      "PlayStation 4",
+      "Xbox One"
+    ],
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7497.webp"
+  },
+  {
+    "titulo": "Hades",
+    "año": 2018,
+    "genero": [
+      "Roguelike",
+      "Accion",
+      "RPG"
+    ],
+    "puntuacion": 9.0,
+    "precio": 24.99,
+    "plataforma": [
+      "PC",
+      "Nintendo Switch",
+      "PlayStation 4",
+      "Xbox One"
+    ],
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co39vc.webp"
+  },
+  {
+    "titulo": "Animal Crossing: New Horizons",
+    "año": 2020,
+    "genero": [
+      "Life simulation"
+    ],
+    "puntuacion": 9.1,
+    "precio": 59.99,
+    "plataforma": [
+      "Nintendo Switch"
+    ],
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3wls.webp"
+  },
+  {
+    "titulo": "Final Fantasy VII Remake",
+    "año": 2020,
+    "genero": [
+      "Accion",
+      "RPG"
+    ],
+    "puntuacion": 9.2,
+    "precio": 59.99,
+    "plataforma": [
+      "PlayStation 4",
+      "PlayStation 5"
+    ],
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1qxr.webp"
+  },
+  {
+    "titulo": "Ghost of Tsushima",
+    "año": 2020,
+    "genero": [
+      "Accion",
+      "Aventura",
+      "Mundo Abierto"
+    ],
+    "puntuacion": 9.3,
+    "precio": 59.99,
+    "plataforma": [
+      "PlayStation 4"
+    ],
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2crj.webp"
+  },
+  {
+    "titulo": "Doom Eternal",
+    "año": 2020,
+    "genero": [
+      "FPS"
+    ],
+    "puntuacion": 9.0,
+    "precio": 59.99,
+    "plataforma": [
+      "PC",
+      "PlayStation 4",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3p5n.webp"
+  },
+  {
+    "titulo": "Marvel's Spider-Man: Miles Morales",
+    "año": 2020,
+    "genero": [
+      "Accion",
+      "Aventura"
+    ],
+    "puntuacion": 8.9,
+    "precio": 49.99,
+    "plataforma": [
+      "PlayStation 4",
+      "PlayStation 5"
+    ],
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2dwe.webp"
+  },
+  {
+    "titulo": "Resident Evil Village",
+    "año": 2021,
+    "genero": [
+      "Survival",
+      "Horror"
+    ],
+    "puntuacion": 8.5,
+    "precio": 59.99,
+    "plataforma": [
+      "PC",
+      "PlayStation 4",
+      "PlayStation 5",
+      "Xbox One",
+      "Xbox Series X/S"
+    ],
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2zpu.webp"
+  },
+  {
+    "titulo": "Halo Infinite",
+    "año": 2021,
+    "genero": [
+      "FPS"
+    ],
+    "puntuacion": 8.8,
+    "precio": 59.99,
+    "plataforma": [
+      "PC",
+      "Xbox One",
+      "Xbox Series X/S"
+    ],
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2dto.webp"
+  },
+  {
+    "titulo": "Forza Horizon 5",
+    "año": 2021,
+    "genero": [
+      "Racing",
+      "Mundo Abierto"
+    ],
+    "puntuacion": 9.4,
+    "precio": 59.99,
+    "plataforma": [
+      "PC",
+      "Xbox One",
+      "Xbox Series X/S"
+    ],
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3ofx.webp"
+  },
+  {
+    "titulo": "Ratchet & Clank: Rift Apart",
+    "año": 2021,
+    "genero": [
+      "Accion",
+      "Aventura",
+      "Plataforma"
+    ],
+    "puntuacion": 9.1,
+    "precio": 69.99,
+    "plataforma": [
+      "PlayStation 5"
+    ],
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2str.webp"
+  },
+  {
+    "titulo": "Metroid Dread",
+    "año": 2021,
+    "genero": [
+      "Accion",
+      "Aventura"
+    ],
+    "puntuacion": 8.8,
+    "precio": 59.99,
+    "plataforma": [
+      "Nintendo Switch"
+    ],
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co39zx.webp"
+  },
+  {
+    "titulo": "It Takes Two",
+    "año": 2021,
+    "genero": [
+      "Accion",
+      "Aventura",
+      "Platformer"
+    ],
+    "puntuacion": 9.2,
+    "precio": 39.99,
+    "plataforma": [
+      "PC",
+      "PlayStation 4",
+      "PlayStation 5",
+      "Xbox One",
+      "Xbox Series X/S"
+    ],
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2t97.webp"
+  },
+  {
+    "titulo": "Deathloop",
+    "año": 2021,
+    "genero": [
+      "Accion",
+      "Aventura",
+      "FPS"
+    ],
+    "puntuacion": 8.7,
+    "precio": 59.99,
+    "plataforma": [
+      "PC",
+      "PlayStation 5"
+    ],
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4nzt.webp"
+  },
+  {
+    "titulo": "Monster Hunter Rise",
+    "año": 2021,
+    "genero": [
+      "Accion",
+      "RPG"
+    ],
+    "puntuacion": 8.5,
+    "precio": 59.99,
+    "plataforma": [
+      "Nintendo Switch",
+      "PC"
+    ],
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3uzk.webp"
+  },
+  {
+    "titulo": "Returnal",
+    "año": 2021,
+    "genero": [
+      "TPS",
+      "Roguelike"
+    ],
+    "puntuacion": 8.8,
+    "precio": 69.99,
+    "plataforma": [
+      "PlayStation 5"
+    ],
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3wc1.webp"
+  },
+  {
+    "titulo": "Hitman 3",
+    "año": 2021,
+    "genero": [
+      "Stealth",
+      "Accion",
+      "Aventura"
+    ],
+    "puntuacion": 8.6,
+    "precio": 59.99,
+    "plataforma": [
+      "PC",
+      "PlayStation 4",
+      "PlayStation 5",
+      "Xbox One",
+      "Xbox Series X/S"
+    ],
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co29lt.webp"
+  },
+  {
+    "titulo": "Kena: Bridge of Spirits",
+    "año": 2021,
+    "genero": [
+      "Accion",
+      "Aventura"
+    ],
+    "puntuacion": 8.5,
+    "precio": 39.99,
+    "plataforma": [
+      "PC",
+      "PlayStation 4",
+      "PlayStation 5"
+    ],
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5vx4.webp"
+  },
+  {
+    "titulo": "Psychonauts 2",
+    "año": 2021,
+    "genero": [
+      "Platformer",
+      "Accion",
+      "Aventura"
+    ],
+    "puntuacion": 8.9,
+    "precio": 59.99,
+    "plataforma": [
+      "PC",
+      "PlayStation 4",
+      "Xbox One",
+      "Xbox Series X/S"
+    ],
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1sod.webp"
+  },
+  {
+    "titulo": "Super Mario 3D World + Bowser's Fury",
+    "año": 2021,
+    "genero": [
+      "Platformer"
+    ],
+    "puntuacion": 9.0,
+    "precio": 59.99,
+    "plataforma": [
+      "Nintendo Switch"
+    ],
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2uo9.webp"
+  },
+  {
+    "titulo": "Tales of Arise",
+    "año": 2021,
+    "genero": [
+      "Accion",
+      "RPG"
+    ],
+    "puntuacion": 8.9,
+    "precio": 59.99,
+    "plataforma": [
+      "PC",
+      "PlayStation 4",
+      "PlayStation 5",
+      "Xbox One",
+      "Xbox Series X/S"
+    ],
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5ls2.webp"
+  },
+  {
+    "titulo": "Marvel's Guardians of the Galaxy",
+    "año": 2021,
+    "genero": [
+      "Accion",
+      "Aventura"
+    ],
+    "puntuacion": 8.7,
+    "precio": 59.99,
+    "plataforma": [
+      "PC",
+      "PlayStation 4",
+      "PlayStation 5",
+      "Xbox One",
+      "Xbox Series X/S"
+    ],
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co39pu.webp"
+  },
+  {
+    "titulo": "Far Cry 6",
+    "año": 2021,
+    "genero": [
+      "FPS",
+      "Mundo Abierto"
+    ],
+    "puntuacion": 8.5,
+    "precio": 59.99,
+    "plataforma": [
+      "PC",
+      "PlayStation 4",
+      "PlayStation 5",
+      "Xbox One",
+      "Xbox Series X/S"
+    ],
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2npg.webp"
+  },
+  {
+    "titulo": "Death Stranding Director's Cut",
+    "año": 2021,
+    "genero": [
+      "Accion"
+    ],
+    "puntuacion": 8.6,
+    "precio": 49.99,
+    "plataforma": [
+      "PlayStation 5"
+    ],
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4rjc.webp"
+  },
+  {
+    "titulo": "NieR Replicant ver.1.22474487139...",
+    "año": 2021,
+    "genero": [
+      "Accion",
+      "RPG"
+    ],
+    "puntuacion": 8.7,
+    "precio": 59.99,
+    "plataforma": [
+      "PC",
+      "PlayStation 4",
+      "Xbox One"
+    ],
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5h0n.webp"
+  },
+  {
+    "titulo": "FIFA 22",
+    "año": 2021,
+    "genero": [
+      "Sports"
+    ],
+    "puntuacion": 7.9,
+    "precio": 59.99,
+    "plataforma": [
+      "PC",
+      "PlayStation 4",
+      "PlayStation 5",
+      "Xbox One",
+      "Xbox Series X/S",
+      "Nintendo Switch"
+    ],
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3dsm.webp"
+  },
+  {
+    "titulo": "Mortal Kombat 11",
+    "año": 2019,
+    "genero": [
+      "Fighting"
+    ],
+    "puntuacion": 8.8,
+    "precio": 59.99,
+    "plataforma": [
+      "PC",
+      "PlayStation 4",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co20mh.webp"
+  },
+  {
+    "titulo": "Sekiro: Shadows Die Twice",
+    "año": 2019,
+    "genero": [
+      "RPG",
+      "Souls like"
+    ],
+    "puntuacion": 9.4,
+    "precio": 59.99,
+    "plataforma": [
+      "PC",
+      "PlayStation 4",
+      "Xbox One"
+    ],
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2a23.webp"
+  },
+  {
+    "titulo": "Control",
+    "año": 2019,
+    "genero": [
+      "Accion",
+      "Aventura"
+    ],
+    "puntuacion": 8.7,
+    "precio": 39.99,
+    "plataforma": [
+      "PC",
+      "PlayStation 4",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2evj.webp"
+  },
+  {
+    "titulo": "Devil May Cry 5",
+    "año": 2019,
+    "genero": [
+      "Accion",
+      "Aventura"
+    ],
+    "puntuacion": 9.0,
+    "precio": 39.99,
+    "plataforma": [
+      "PC",
+      "PlayStation 4",
+      "Xbox One"
+    ],
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1rb4.webp"
+  },
+  {
+    "titulo": "Luigi's Mansion 3",
+    "año": 2019,
+    "genero": [
+      "Accion",
+      "Aventura"
+    ],
+    "puntuacion": 8.7,
+    "precio": 59.99,
+    "plataforma": [
+      "Nintendo Switch"
+    ],
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co22a9.webp"
+  },
+  {
+    "titulo": "Star Wars Jedi: Fallen Order",
+    "año": 2019,
+    "genero": [
+      "Accion",
+      "Aventura"
+    ],
+    "puntuacion": 8.9,
+    "precio": 59.99,
+    "plataforma": [
+      "PC",
+      "PlayStation 4",
+      "Xbox One"
+    ],
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1rbi.webp"
+  },
+  {
+    "titulo": "Fire Emblem: Three Houses",
+    "año": 2019,
+    "genero": [
+      "Tactical",
+      "RPG"
+    ],
+    "puntuacion": 9.5,
+    "precio": 59.99,
+    "plataforma": [
+      "Nintendo Switch"
+    ],
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1n8t.webp"
+  },
+  {
+    "titulo": "Outer Wilds",
+    "año": 2019,
+    "genero": [
+      "Accion",
+      "Aventura",
+      "Mundo Abierto"
+    ],
+    "puntuacion": 9.3,
+    "precio": 24.99,
+    "plataforma": [
+      "PC",
+      "PlayStation 4",
+      "Xbox One"
+    ],
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co65ac.webp"
+  },
+  {
+    "titulo": "Untitled Goose Game",
+    "año": 2019,
+    "genero": [
+      "Puzzle",
+      "Sigilo"
+    ],
+    "puntuacion": 8.5,
+    "precio": 19.99,
+    "plataforma": [
+      "PC",
+      "PlayStation 4",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1vqc.webp"
+  }
+]
+}
