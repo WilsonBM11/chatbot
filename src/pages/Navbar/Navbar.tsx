@@ -1,8 +1,6 @@
-
 import { Button, Input, Menu } from "antd";
 import "./Navbar.css";
 import { SearchOutlined } from "@ant-design/icons";
-import logo from "../../assets/logo.png";
 const { Search } = Input;
 
 const Navbar = () => {

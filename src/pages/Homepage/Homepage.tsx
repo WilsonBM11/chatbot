@@ -2,7 +2,7 @@ import { Layout, Card, Row, Col } from "antd";
 import Footer from "../Footer/Footer";
 import GameCarousel from "../GameCarousel/GameCarousel";
 import Navbar from "../Navbar/Navbar";
-import { Content, Header } from "antd/es/layout/layout";
+import { Content} from "antd/es/layout/layout";
 import './Homepage.css'; // Importa el archivo CSS para los estilos
 import descuentosImage from '../../assets/descuento.png';
 import juegoNuevoImage from '../../assets/juegoNuevo.png';
