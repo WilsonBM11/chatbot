@@ -15,7 +15,7 @@ const Homepage = () => {
             
                 <Navbar />
             
-            <Content style={{ padding: '0 12rem', marginTop: '16px'}}>
+            <Content className="content-body" >
                 <h1 className="homepage-title">Gaming Extreme</h1>
                 <div style={{ background: '#fff', padding: 10, minHeight: 380 }}>
                     <p className="homepage-slogan">"Tu mundo de aventuras digitales comienza aquí."</p>
@@ -24,7 +24,7 @@ const Homepage = () => {
                         <h2 className="homepage-noticias">Noticias</h2>
                         <Row gutter={16}>
                             <Col span={8}>
-                                <Card
+                                <Card className="card-noticia"
                                     hoverable
                                     cover={<img className="img-noticia" alt="Descuentos" src={descuentosImage} />}
                                 >
@@ -32,7 +32,7 @@ const Homepage = () => {
                                 </Card>
                             </Col>
                             <Col span={8}>
-                                <Card
+                                <Card className="card-noticia"
                                     hoverable
                                     cover={<img alt="Mejores juegos 2024" src={mejoresJuegosImage} />}
                                 >
@@ -40,7 +40,7 @@ const Homepage = () => {
                                 </Card>
                             </Col>
                             <Col span={8}>
-                                <Card
+                                <Card className="card-noticia"
                                     hoverable
                                     cover={<img alt="Nuevas llegadas" src={juegoNuevoImage} />}
                                 >

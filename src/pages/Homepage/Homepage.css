@@ -1,4 +1,3 @@
-
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
 
 body {
@@ -13,6 +12,12 @@ body {
     margin-bottom: 20px;
 }
 
+.content-body{
+    padding: '0 12rem';
+    margin-top: '16px'
+}
+
+
 .homepage-slogan {
     font-size: 1.5rem;
     text-align: center;
@@ -20,7 +25,7 @@ body {
     color: #555555;
 }
 
-.homepage-noticias{
+.homepage-noticias {
     font-size: 1.5rem;
     margin-bottom: 30px;
     color: #555555;
@@ -34,4 +39,19 @@ body {
 
 .ant-card-cover img {
     border-bottom: 1px solid #f0f0f0;
+}
+
+@media (max-width: 500px) {
+    .homepage-title{
+        font-size: 8vw;
+        
+    }
+
+    .homepage-slogan, .homepage-noticias{
+        font-size: 5vw;
+    }
+
+    .card-noticia{
+        font-size: 2.5vw;
+    }
 }
